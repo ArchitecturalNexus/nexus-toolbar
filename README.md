@@ -3,7 +3,7 @@
 ### List of fully updated panels
 - [x] Manage.panel
 - [x] Quality Control.panel
-- [ ] Selection.panel
+- [x] Selection.panel
 - [ ] Support.panel
 - [ ] Toggles.panel
 - [ ] Tools.panel
