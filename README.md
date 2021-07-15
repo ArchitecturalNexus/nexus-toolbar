@@ -6,5 +6,5 @@
 - [x] Selection.panel
 - [x] Support.panel
 - [x] Toggles.panel
-- [ ] Tools.panel
+- [x] Tools.panel
 - [ ] Views and Sheets.panel
