@@ -7,4 +7,4 @@
 - [x] Support.panel
 - [x] Toggles.panel
 - [x] Tools.panel
-- [ ] Views and Sheets.panel
+- [x] Views and Sheets.panel

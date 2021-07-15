@@ -1,8 +1,23 @@
+title:
+  en_us: Sheets
+  fr_fr: Feuilles
 layout:
+  - Copy Views
+  - Move Views
   - Pin All Viewports
+  - Reorder Selected Viewport
+  - -----
+  - Copy Sheets to Open Documents
   - Batch Sheet Maker
+  - -----
   - Select Sheets
+  - Rename Selected Sheets
+  - List TitleBlocks on Sheets
   - Set Crop Region To Selected Shape
   - Open Selected Viewport
+  - View Ordering Tool
+  - -----
+  - ReOrder Sheets
+  - Rename PDF Sheets
   - Decrement Selected Sheet Numbers
   - Increment Selected Sheet Numbers
