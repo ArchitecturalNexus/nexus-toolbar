@@ -5,6 +5,6 @@
 - [x] Quality Control.panel
 - [x] Selection.panel
 - [x] Support.panel
-- [ ] Toggles.panel
+- [x] Toggles.panel
 - [ ] Tools.panel
 - [ ] Views and Sheets.panel
