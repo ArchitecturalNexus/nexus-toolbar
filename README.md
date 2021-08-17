@@ -8,3 +8,7 @@
 - [x] Toggles.panel
 - [x] Tools.panel
 - [x] Views and Sheets.panel
+
+
+### Tweaks to be made
+- [ ]
